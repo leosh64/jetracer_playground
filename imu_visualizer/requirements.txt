@@ -1,0 +1,6 @@
+pygame==2.0.0
+icm20948 # TODO: ensure latest version
+smbus
+numpy
+PyOpenGL
+# madgewick_py # TODO: currently not on PyPi
