@@ -27,4 +27,14 @@ Run using Python 3 in the sourced virtual environment:
 python3 main.py
 ```
 
-![](doc/visualization.png)
+The module is able to accurately capture the orientation of Jetracer and visualize it in 3D:
+
+![Animated GIF of the orientation of Jetracer](doc/realworld.gif)
+
+## Screenshot
+
+![Screenshot of the visualization](doc/visualization.png)
+
+## Tweak
+
+Adjust the variable `sensor_mounting_orientation` in `main.py` according to the orientation of your mounted sensor.
